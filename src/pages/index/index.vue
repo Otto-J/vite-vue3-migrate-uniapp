@@ -4,9 +4,9 @@
 <script lang="ts" setup>
 import { onLoad } from '@dcloudio/uni-app'
 
-defineOptions({
-  name: 'pageIndex'
-})
+// defineOptions({
+//   name: 'pageIndex'
+// })
 const showSys = async () => {
   const res = await uni.getSystemInfo()
   console.log(res)
