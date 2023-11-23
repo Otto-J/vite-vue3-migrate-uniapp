@@ -5,6 +5,12 @@
       "style": {
         "navigationBarTitleText": "nav bar title"
       }
+    },
+    {
+      "path": "pages/about/index",
+      "style": {
+        "navigationBarTitleText": "nav bar title"
+      }
     }
   ],
   "easycom": {

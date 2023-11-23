@@ -1,5 +1,8 @@
 <template>
   <view @click="showSys">hi</view>
+  <navigator url="/pages/about/index">
+    <button>about</button>
+  </navigator>
 </template>
 <script lang="ts" setup>
 import { onLoad } from '@dcloudio/uni-app'
