@@ -17,7 +17,9 @@
     "@dcloudio/uni-app": "3.0.0-alpha-3090820231120001",
     "@dcloudio/uni-components": "3.0.0-alpha-3090820231120001",
     "@dcloudio/uni-h5": "3.0.0-3090620231104002",
+    "pinia": "^2.0.36",
     "vue": "^3.3.8",
+    "vue-demi": "^0.14.6",
     "vue-router": "^4.2.5"
   },
   "devDependencies": {
