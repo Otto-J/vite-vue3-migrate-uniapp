@@ -6,6 +6,7 @@
 </template>
 <script lang="ts" setup>
 import { onLoad } from '@dcloudio/uni-app'
+// import { hasInjectionContext } from 'vue-demi'
 
 // defineOptions({
 //   name: 'pageIndex'
